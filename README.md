@@ -8,9 +8,9 @@ HashKitCXX is a modern, C++-native, hash library written in C++11.
 ## Why do we need yet another hash framework?
 HashKitCXX is not a framework but a library of hashes, a collection, a development kit, and you don’t need to get the whole library to be able to use a specific hash type. You don’t even need to build a static or dynamic library to use these hashes, you can just download the source files you need and use them in your projects.
 
-I always struggled to find a hash library written in modern C++ code from which I can extract a specific hash algorithm to use it in my projects so I decided to start building my own.
+I've always struggled to find a hash library written in modern C++ code from which I can extract a specific hash algorithm to use it in my projects so I decided to start building my own.
 
-This library doesn’t try to be as good or complete as, for example, (OpenSSL)[ https://github.com/openssl/openssl] or (Crypto C++)[https://github.com/weidai11/cryptopp], but those are cryptographic framework and it is nearly impossible to extract one single hash algorithm from those projects, due to the dependencies with other source files in the same framework.
+This library doesn’t try to be as good or complete as, for example, [OpenSSL](https://github.com/openssl/openssl) or [Crypto C++](https://github.com/weidai11/cryptopp), but those are cryptographic framework and it is nearly impossible to extract one single hash algorithm from those projects, due to the dependencies with other source files in the same framework.
 
 On the other hand, all you need to use a hash from HashKitCXX, is find the pair of source and header files that contains such algorithm and copy/paste them in your project. No other files will be necessary.
 
@@ -24,7 +24,7 @@ However, HashKitCXX can be build using as a static or dynamic library and instal
   * Warnings free. The library is compiled against multiple compilers and environments with all warning checks activated (see the full list below). It is also running checks using Clang pipeline, specifically clang-tidy and the Clang static analyzer.
 
 ## Downloads
-Binary releases (if you need that) and source code archives are available on the (release page)[ https://github.com/sineang01/hashkitcxx/releases].
+Binary releases (if you need that) and source code archives are available on the [release page](https://github.com/sineang01/hashkitcxx/releases).
 If you have a different platform and you can’t find already-made binaries for that platform, you can still download the source code and use it directly in your projects, or build from source.
 
 ## Compile
