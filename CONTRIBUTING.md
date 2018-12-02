@@ -65,7 +65,7 @@ Here some coding conventions:
   
 ## Formatting
 
-Formatting is done using **CLang-format** and **CLang-tidy**, version 7.0.0. Please use the **same version** because other versions might format code slightly differently.
+Formatting is done using **Clang-format** and **Clang-tidy**, version 7.0.0. Please use the **same version** because other versions might format code slightly differently.
 Configuration files are provided in the repository to configure those systems with the appropriate settings, use them while coding your patch or new feature.
 
 Thanks!
