@@ -53,7 +53,7 @@ Here some coding conventions:
   * Use underscore as word separator.
   * Everything is lowercase: this applies to class/struct names, members, methods, any other variables (including statics, consts or constexprs), namespaces and generally everything else (e.g. `out_of_range`).
   * Macros/Defines are written using only uppercase letters and underscores (e.g. `HASHLIBCXX_USE_STRING`).
-  * Template times are prefixed with a capital T and follow camelcase syntax with first letter uppercase (e.g. `THash`).
+  * Template types are prefixed with a capital T and follow camelcase syntax with first letter uppercase (e.g. `THash`).
   * Comments are whenever possible lowercase too; exceptions are allowed (one of which is the copyright comment block).
   * All variables in a class are prefixes with `m_` except static variables, those are prefixed with `s_`.
   * Use `#pragma once` instead of the define guard.
