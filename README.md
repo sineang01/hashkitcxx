@@ -1,6 +1,6 @@
 # HashKitCXX
 
-[![License](https://img.shields.io/badge/License-BSD-blue.svg)](https://github.com/Snaipe/Criterion/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/License-BSD-blue.svg)](https://github.com/sineang01/hashkitcxx/blob/master/LICENSE.md)
 
 ## What is HashKitCXX
 HashKitCXX is a modern, C++-native, hash library written in C++11.
