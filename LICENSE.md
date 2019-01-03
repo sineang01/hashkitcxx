@@ -1,6 +1,8 @@
+# HashKitCXX LICENSE
+
 BSD 3-Clause License
 
-Copyright (c) 2019, Simone Angeloni
+Copyright (c) 2018, Simone Angeloni.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -32,6 +34,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The HashKitCXX namespace sha2 is based on original work from Olivier Gay.
 Copyright: 2005, 2007 Olivier Gay <olivier.gay@a3.epfl.ch>.
-License: BSD 3-Clause.
+License: 3-Clause BSD.
 Description: "Fast software implementation in C of the FIPS 180-2 hash algorithms SHA-224, SHA-256, SHA-384 and SHA-512".
 Resource link: https://github.com/ogay/sha2
